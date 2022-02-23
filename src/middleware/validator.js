@@ -1,9 +1,9 @@
 
 function validator(req,res,next){
-  console.log(typeof(req.query));
+ // console.log(typeof(req.query));
 const check = /^[0-9]+$/;
 const result =(req.query.name).match(check)
-console.log(result);
+//console.log(result);
 
 if ( (req.query.name) !== "" && !result)
 
