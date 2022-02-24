@@ -7,7 +7,7 @@
 
 - [The pullrequest link](https://github.com/neveenaburomman/basic-express-server/pull/2)
 
-- [The herokuapp link](https://neveen-server-deploy-dev.herokuapp.com/)
+- [The herokuapp link](https://neveen-basicserver-deploy-main.herokuapp.com/)
 
 
 **MY NOTES** :)
