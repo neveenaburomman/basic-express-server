@@ -5,7 +5,7 @@ function validator(req,res,next){
 //const result =(req.query.name).match(check)
 //console.log(result);
 
-if ( (req.query.name) !== "" && !isNaN(req.query.name))
+if ( (req.query.name) !== "" && isNaN(req.query.name))
 {
 next()
 }
